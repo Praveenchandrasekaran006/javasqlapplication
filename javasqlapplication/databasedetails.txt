@@ -1,0 +1,4 @@
+#Fri Feb 19 09:33:00 IST 2021
+uname=root
+pass=Ch@ndrasekar123
+url=jdbc\:mysql\://localhost\:3306/abc
